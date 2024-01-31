@@ -2,6 +2,8 @@
 
 ## **Gereklilikler**
 [BootstrapDoc](https://getbootstrap.com/docs/5.3/utilities/spacing/#margin-and-padding)
+
+
 [Linkedln](https://www.linkedin.com)
 
 ## Arayüz 
